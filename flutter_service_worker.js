@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a3342e339b74f3528cf0e897e045ee99",
-"index.html": "286675d2f45df9e8ce44df65386cb5e2",
-"/": "286675d2f45df9e8ce44df65386cb5e2",
-"main.dart.js": "b8fe1faec7ebc5350615d7981d93d4a9",
+"index.html": "397a3ba1960c8f7d4dec569120aa20c1",
+"/": "397a3ba1960c8f7d4dec569120aa20c1",
+"main.dart.js": "155d1ecefc3110605bdff9b6602dcb17",
 "example/assets/fonts/SF-Pro-Display-Semibold.ttf": "962956e157e4687b7c79d1dafb2b9fb0",
 "example/assets/fonts/SF-Pro-Display-Medium.ttf": "8296fbc23d1d42f2954c7af6698cf579",
 "example/assets/fonts/SF-Pro-Rounded-Semibold.otf": "02dc9f029efbbe4cd105420f50202dd9",
@@ -27,7 +27,6 @@ const RESOURCES = {
 "example/assets/fonts/SF-Pro-Text-Semibold.otf": "9a7c849b216648913f216d20a21e9aae",
 "example/assets/fonts/SF-Pro-Text-Medium.otf": "ded5efe3e8ec62553c3b10f4edd4ca8d",
 "example/assets/fonts/SF-Pro-Rounded-Bold.otf": "bf108f8e2fcbda9e4ea2b18ed7799caf",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -68,8 +67,8 @@ const RESOURCES = {
 ".git/refs/remotes/origin/main": "4a64240f049e9dbd9509750ef89aa6ed",
 ".git/index": "ecaf951ff9aa5675f43968c8f64ecd04",
 ".git/COMMIT_EDITMSG": "5d6fa522eb1c0613a79b5db6a143384c",
-"assets/AssetManifest.json": "84ee49e7e13bd1b83cf97e56b5df2fd0",
-"assets/NOTICES": "561dd183e7c849336f9b929561cdeb0e",
+"assets/AssetManifest.json": "5d1003d0ae6f89f408d43637096cf8d7",
+"assets/NOTICES": "815d2d677cc062d9a2b55e990e5bcc62",
 "assets/FontManifest.json": "c1c97b8bc6c57a080c30a85413269aa0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/widgetbook/google_fonts/Nunito-ExtraBoldItalic.ttf": "3d69caac1feaa544d89721dffa4dae9b",
@@ -112,11 +111,14 @@ const RESOURCES = {
 "assets/packages/deposits_ui_kit/lib/src/assets/fonts/SF-Pro-Text-Medium.otf": "ded5efe3e8ec62553c3b10f4edd4ca8d",
 "assets/packages/deposits_ui_kit/lib/src/assets/fonts/SF-Pro-Rounded-Bold.otf": "bf108f8e2fcbda9e4ea2b18ed7799caf",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/assets/images/launcher_dark.png": "b23ef569e28b99cb8565e895c875c6bc",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/images/jcbCard.png": "7ec7520e7eb90dda2a06c2d38d046faf",
+"assets/assets/images/sim.png": "24148cad8c03b041ed9a469f5d043c3e",
+"assets/assets/images/expressCard.png": "e36cebb1914d8c667714c2c540b957cf",
+"assets/assets/images/renapay.png": "109996c407bb94dd23912d6b00aff5f4",
+"assets/assets/images/visaCard.png": "89e4ca37ea87ffe71477504cd29bea73",
+"assets/assets/images/masterCard.png": "0b2a8d641fe23797c9404f8133c2f2c2",
+"assets/assets/images/verveCard.png": "bed4d5847da340da1ac8b36f743275d4",
+"assets/assets/images/launcher_dark.png": "b23ef569e28b99cb8565e895c875c6bc"
 };
 
 // The application shell files that are downloaded before a service worker can
